@@ -1,3 +1,11 @@
+# write a program to add two number
+
+n1 = int(input('Enter a number'))
+n2 = float(input('Enter a number'))
+
+print(n1+n2)
+
+
 # write a progrm to check that a given number is even or odd
 
 num = int(input('Enter a number'))
